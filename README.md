@@ -1,5 +1,5 @@
 # TOUCH SLIDER
-
+</br>![web](https://github.com/rqguzman/assets/blob/main/snapshots/touchslider/web.png)
 <p>
     This is an educational project provided by Brad Traversy, from </br>
     Traversy Media(https://www.traversymedia.com/) </br>
@@ -12,8 +12,13 @@
     This tutorial is part of my effort to improve my CSS and HTML skills.
 </p>
 <p>
-    Status: :construction: work in progress </br>    
+    Status: :rocket: Deployed! </br>
+    http://rqguzman-touchslider-traversy.surge.sh/
 </p>
+
+### MOBILE SNAPSHOTS
+![mobile_lg](https://github.com/rqguzman/assets/blob/main/snapshots/touchslider/mobile_lg.png)
+![mobile_sm](https://github.com/rqguzman/assets/blob/main/snapshots/touchslider/mobile_sm.png)
 
 ## LICENCE
 
